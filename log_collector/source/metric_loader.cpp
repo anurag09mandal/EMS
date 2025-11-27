@@ -49,7 +49,7 @@ void loadMetricPaths(const std::string& jsonFilePath, const std::string& default
                     std::cerr << "request for Data Name: " << metricId << std::endl;
                     auto it = logMapping.find(metricId);
                     if (it == logMapping.end()) {
-                         std::cerr << "[No log] request for Data Name in internal LUT: " << metricId << std::endl;
+                        //  std::cerr << "[No log] request for Data Name in internal LUT: " << metricId << std::endl;
                          continue;
                     }
                     

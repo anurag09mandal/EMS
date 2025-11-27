@@ -115,7 +115,7 @@ void LogCollector::message_sender_loop(std::stop_token stop_token)
             nlohmann::json payload;
             payload["metricPath"] = req.metricPath;
             publish_request(APPID_ENERGY_LINK, SERVICE_SEND_READ_METRIC, payload);
-            std::this_thread::sleep_for(std::chrono::milliseconds(100));
+            std::this_thread::sleep_for(std::chrono::milliseconds(1000));
         }
     }
 }
@@ -154,7 +154,12 @@ void handle_on_demand_read_response(const nlohmann::json& message) {
 
 
 void LogCollector::handle_request(const std::string& tid, const std::string& timestamp, const std::string& source, const std::string& service, const nlohmann::json& message) {
-
+    if(service == SERVICE_SHUTDOWN_APPLICATION || service == SERVICE_SHUTDOWN_APPLICATION_FOR_SYSTEM_REBOOT)
+    {
+        cleanup();
+        nlohmann::json res_payload;
+        publish_response(tid,res_payload);
+    }
 }
 
 
