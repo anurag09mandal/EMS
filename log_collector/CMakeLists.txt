@@ -26,6 +26,7 @@ add_executable(log_collector
     source/logcollector_application.cpp
     source/logger_utils.cpp
     source/metric_loader.cpp
+    source/external_device.cpp
     ${BASEAPP_DIR}/source/base_app.cpp
     ${APPCORE_DIR}/source/edge_logger.cpp
     ${APPCORE_DIR}/source/edge_utils.cpp

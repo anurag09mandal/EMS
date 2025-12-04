@@ -1,294 +1,406 @@
 Reg ID,Data Name,Write Cycle,Log Type Creation Time,Log Type,Log File Name,File Size
-INSTALL_DATA_STATUS,Group1_Status,15 minutes,1 day,EI,EMSP Installation,8 kb
-INSTALL_DATA_STATUS,Group2_Status,15 minutes,1 day,EI,EMSP Installation,8 kb
-INSTALL_DATA_STATUS,Group3_Status,15 minutes,1 day,EI,EMSP Installation,8 kb
-INSTALL_DATA_STATUS,Group4_Status,15 minutes,1 day,EI,EMSP Installation,8 kb
-INSTALL_DATA_STATUS,Group5_Status,15 minutes,1 day,EI,EMSP Installation,8 kb
-INSTALL_DATA_STATUS,Group6_Status,15 minutes,1 day,EI,EMSP Installation,8 kb
-INSTALL_DATA_STATUS,Group7_Status,15 minutes,1 day,EI,EMSP Installation,8 kb
-INSTALL_DATA_STATUS,Group8_Status,15 minutes,1 day,EI,EMSP Installation,8 kb
-INSTALL_DATA_STATUS,Group9_Status,15 minutes,1 day,EI,EMSP Installation,8 kb
-INSTALL_DATA_STATUS,Group10_Status,15 minutes,1 day,EI,EMSP Installation,8 kb
-INSTALL_DATA_STATUS,Group11_Status,15 minutes,1 day,EI,EMSP Installation,8 kb
-INSTALL_DATA_STATUS,Group12_Status,15 minutes,1 day,EI,EMSP Installation,8 kb
-INSTALL_DATA_STATUS,Group13_Status,15 minutes,1 day,EI,EMSP Installation,8 kb
-INSTALL_DATA_STATUS,Group14_Status,15 minutes,1 day,EI,EMSP Installation,8 kb
-INSTALL_DATA_STATUS,Group15_Status,15 minutes,1 day,EI,EMSP Installation,8 kb
-INSTALL_DATA_STATUS,Group16_Status,15 minutes,1 day,EI,EMSP Installation,8 kb
-INSTALL_DATA_STATUS,Group17_Status,15 minutes,1 day,EI,EMSP Installation,8 kb
-INSTALL_DATA_STATUS,Group18_Status,15 minutes,1 day,EI,EMSP Installation,8 kb
-INSTALL_DATA_STATUS,Group19_Status,15 minutes,1 day,EI,EMSP Installation,8 kb
-MCU_Info,SPI_Map_Version,15 minutes,1 day,EM,EMSP Maintenance,8 kb
-MCU_Info,ST8500_PE_FW_Version,15 minutes,1 day,EM,EMSP Maintenance,8 kb
-MCU_Info,ST8500_RTE_FW_Version,15 minutes,1 day,EM,EMSP Maintenance,8 kb
-MCU_Info,MCU_Flash_All_Checksum,15 minutes,1 day,EM,EMSP Maintenance,8 kb
-MCU_Info,MCU_Boot_FW_VERSION,15 minutes,1 day,EM,EMSP Maintenance,8 kb
-MCU_Info,MCU_FW_VERSION,15 minutes,1 day,EM,EMSP Maintenance,8 kb
-MCU_Status,MCU_Startup_Status,15 minutes,1 day,EM,EMSP Maintenance,8 kb
-MCU_Status,ConDevice_Install_SeqStatus,15 minutes,1 day,EI,EMSP Installation,8 kb
-MCU_Status,MCU_Operation_Time,15 minutes,1 day,EM,EMSP Maintenance,8 kb
-EMS_Init_Status,Init_Status,15 minutes,1 day,EM,EMSP Maintenance,8 kb
-PCS1_Validation_Status,Validation_Status,15 minutes,1 day,PCCM,PCS CAN Monitoring,8 kb
-PCS2_Validation_Status,Validation_Status,15 minutes,1 day,PCCM,PCS CAN Monitoring,8 kb
-PCS3_Validation_Status,Validation_Status,15 minutes,1 day,PCCM,PCS CAN Monitoring,8 kb
-PCS4_Validation_Status,Validation_Status,15 minutes,1 day,PCCM,PCS CAN Monitoring,8 kb
-AHUB_Validation_Status,Validation_Status,15 minutes,1 day,AHM,Advanced HUB Monitoring,8 kb
-PMU_Monitoring_Data_01,Tot_Load_Active_Power,15 minutes,1 day,PMM,PMU Monitoring,8 kb
-PMU_Monitoring_Data_01,Tot_ESS_Apparent_Power,15 minutes,1 day,PMM,PMU Monitoring,8 kb
-PMU_Monitoring_Data_01,Tot_ESS_Active_Power,15 minutes,1 day,PMM,PMU Monitoring,8 kb
-PMU_Monitoring_Data_01,Tot_ESS_Reactive_Power,15 minutes,1 day,PMM,PMU Monitoring,8 kb
-PMU_Monitoring_Data_01,Tot_ESS_Power_Factor,15 minutes,1 day,PMM,PMU Monitoring,8 kb
-PMU_Monitoring_Data_01,MI_Apparent_Power,15 minutes,1 day,PMM,PMU Monitoring,8 kb
-PMU_Monitoring_Data_01,MI_Active_Power,15 minutes,1 day,PMM,PMU Monitoring,8 kb
-PMU_Monitoring_Data_01,MI_Reactive_Power,15 minutes,1 day,PMM,PMU Monitoring,8 kb
-PMU_Monitoring_Data_01,MI_Power_Factor,15 minutes,1 day,PMM,PMU Monitoring,8 kb
-PMU_Monitoring_Data_01,Ext_PV_Apparent_Power,15 minutes,1 day,PMM,PMU Monitoring,8 kb
-PMU_Monitoring_Data_01,Ext_PV_Active_Power,15 minutes,1 day,PMM,PMU Monitoring,8 kb
-PMU_Monitoring_Data_01,Ext_PV_Reactive_Power,15 minutes,1 day,PMM,PMU Monitoring,8 kb
-PMU_Monitoring_Data_01,Ext_PV_Power_Factor,15 minutes,1 day,PMM,PMU Monitoring,8 kb
-PMU_Monitoring_Data_01,Grid_L1_Apparent_Power,15 minutes,1 day,PMM,PMU Monitoring,8 kb
-PMU_Monitoring_Data_01,Grid_L1_Active_Power,15 minutes,1 day,PMM,PMU Monitoring,8 kb
-PMU_Monitoring_Data_01,Grid_L1_Reactive_Power,15 minutes,1 day,PMM,PMU Monitoring,8 kb
-PMU_Monitoring_Data_01,Grid_L1_Power_Factor,15 minutes,1 day,PMM,PMU Monitoring,8 kb
-PMU_Monitoring_Data_01,Grid_L2_Apparent_Power,15 minutes,1 day,PMM,PMU Monitoring,8 kb
-PMU_Monitoring_Data_01,Grid_L2_Active_Power,15 minutes,1 day,PMM,PMU Monitoring,8 kb
-PMU_Monitoring_Data_01,Grid_L2_Reactive_Power,15 minutes,1 day,PMM,PMU Monitoring,8 kb
-PMU_Monitoring_Data_01,Grid_L2_Power_Factor,15 minutes,1 day,PMM,PMU Monitoring,8 kb
-PMU_Monitoring_Data_01,Grid_Apparent_Power,15 minutes,1 day,PMM,PMU Monitoring,8 kb
-PMU_Monitoring_Data_01,Grid_Active_Power,15 minutes,1 day,PMM,PMU Monitoring,8 kb
-PMU_Monitoring_Data_01,Grid_Reactive_Power,15 minutes,1 day,PMM,PMU Monitoring,8 kb
-PMU_Monitoring_Data_01,Grid_Power_Factor,15 minutes,1 day,PMM,PMU Monitoring,8 kb
-PMU_Monitoring_Data_01,Grid_Freq,15 minutes,1 day,PMM,PMU Monitoring,8 kb
-PMU_Monitoring_Data_01,AC_Bus_Freq,15 minutes,1 day,PMM,PMU Monitoring,8 kb
-PMU_Monitoring_Data_01,Grid_L1N_V,15 minutes,1 day,PMM,PMU Monitoring,8 kb
-PMU_Monitoring_Data_01,Grid_L2N_V,15 minutes,1 day,PMM,PMU Monitoring,8 kb
-PMU_Monitoring_Data_01,Grid_LL_V,15 minutes,1 day,PMM,PMU Monitoring,8 kb
-PMU_Monitoring_Data_02,AC_Bus_L1N_V,15 minutes,1 day,PMM,PMU Monitoring,8 kb
-PMU_Monitoring_Data_02,AC_Bus_L2N_V,15 minutes,1 day,PMM,PMU Monitoring,8 kb
-PMU_Monitoring_Data_02,AC_Bus_LL_V,15 minutes,1 day,PMM,PMU Monitoring,8 kb
-PMU_Monitoring_Data_02,Grid_L1_I,15 minutes,1 day,PMM,PMU Monitoring,8 kb
-PMU_Monitoring_Data_02,Grid_L2_I,15 minutes,1 day,PMM,PMU Monitoring,8 kb
-PMU_Monitoring_Data_02,MI_LL_V,15 minutes,1 day,PMM,PMU Monitoring,8 kb
-PMU_Monitoring_Data_02,MI_L1_I,15 minutes,1 day,PMM,PMU Monitoring,8 kb
-PMU_Monitoring_Data_02,Grid_Fault,15 minutes,1 day,PMM,PMU Monitoring,8 kb
-PMU_Monitoring_Data_02,Grid_Alarm,15 minutes,1 day,PMM,PMU Monitoring,8 kb
-PMU_Monitoring_Data_02,System_Fault,15 minutes,1 day,PMM,PMU Monitoring,8 kb
-PMU_Monitoring_Data_02,System_Warning,15 minutes,1 day,PMM,PMU Monitoring,8 kb
-PMU_Monitoring_Data_02,System_Alarm,15 minutes,1 day,PMM,PMU Monitoring,8 kb
-PMU_Monitoring_Data_03,MI_Warning,15 minutes,1 day,PMM,PMU Monitoring,8 kb
-PMU_Monitoring_Data_03,GEM_Warning,15 minutes,1 day,PMM,PMU Monitoring,8 kb
-PMU_Monitoring_Data_03,DER1_Alarm,15 minutes,1 day,PMM,PMU Monitoring,8 kb
-PMU_Monitoring_Data_03,DER2_Alarm,15 minutes,1 day,PMM,PMU Monitoring,8 kb
-PMU_Monitoring_Data_03,DER3_Alarm,15 minutes,1 day,PMM,PMU Monitoring,8 kb
-PMU_Monitoring_Data_03,DER4_Alarm,15 minutes,1 day,PMM,PMU Monitoring,8 kb
-MLPE_MI_Total_Count,mlpe_mi_total_count,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI000_Monitoring_Data_0,fw_version,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI000_Monitoring_Data_0,serial_number,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI000_Monitoring_Data_0,grid_profile_crc,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI000_Monitoring_Data_0,inverter_state,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI000_Monitoring_Data_0,alarms_3,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI000_Monitoring_Data_0,alarms_1,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI000_Monitoring_Data_0,alarms_2,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI000_Monitoring_Data_0,watt_min,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI000_Monitoring_Data_0,watt_hour,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI000_Monitoring_Data_0,var_min,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI000_Monitoring_Data_0,watt,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI000_Monitoring_Data_0,var,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI000_Monitoring_Data_0,iac_rms,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI000_Monitoring_Data_0,vac_rms,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI000_Monitoring_Data_0,grid_frequency,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI000_Monitoring_Data_0,vpv,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI000_Monitoring_Data_0,ipv,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI000_Monitoring_Data_0,temperature,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI000_Monitoring_Data_0,fw_sub_version,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI000_Monitoring_Data_0,lqi,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI000_Monitoring_Data_1,last_control_sec,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI001_Monitoring_Data_0,fw_version,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI001_Monitoring_Data_0,serial_number,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI001_Monitoring_Data_0,grid_profile_crc,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI001_Monitoring_Data_0,inverter_state,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI001_Monitoring_Data_0,alarms_3,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI001_Monitoring_Data_0,alarms_1,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI001_Monitoring_Data_0,alarms_2,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI001_Monitoring_Data_0,watt_min,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI001_Monitoring_Data_0,watt_hour,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI001_Monitoring_Data_0,var_min,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI001_Monitoring_Data_0,watt,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI001_Monitoring_Data_0,var,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI001_Monitoring_Data_0,iac_rms,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI001_Monitoring_Data_0,vac_rms,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI001_Monitoring_Data_0,grid_frequency,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI001_Monitoring_Data_0,vpv,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI001_Monitoring_Data_0,ipv,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI001_Monitoring_Data_0,temperature,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI001_Monitoring_Data_0,fw_sub_version,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI001_Monitoring_Data_0,lqi,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI001_Monitoring_Data_1,last_control_sec,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI002_Monitoring_Data_0,fw_version,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI002_Monitoring_Data_0,serial_number,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI002_Monitoring_Data_0,grid_profile_crc,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI002_Monitoring_Data_0,inverter_state,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI002_Monitoring_Data_0,alarms_3,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI002_Monitoring_Data_0,alarms_1,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI002_Monitoring_Data_0,alarms_2,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI002_Monitoring_Data_0,watt_min,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI002_Monitoring_Data_0,watt_hour,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI002_Monitoring_Data_0,var_min,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI002_Monitoring_Data_0,watt,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI002_Monitoring_Data_0,var,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI002_Monitoring_Data_0,iac_rms,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI002_Monitoring_Data_0,vac_rms,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI002_Monitoring_Data_0,grid_frequency,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI002_Monitoring_Data_0,vpv,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI002_Monitoring_Data_0,ipv,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI002_Monitoring_Data_0,temperature,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI002_Monitoring_Data_0,fw_sub_version,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI002_Monitoring_Data_0,lqi,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI002_Monitoring_Data_1,last_control_sec,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI003_Monitoring_Data_0,fw_version,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI003_Monitoring_Data_0,serial_number,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI003_Monitoring_Data_0,grid_profile_crc,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI003_Monitoring_Data_0,inverter_state,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI003_Monitoring_Data_0,alarms_3,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI003_Monitoring_Data_0,alarms_1,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI003_Monitoring_Data_0,alarms_2,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI003_Monitoring_Data_0,watt_min,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI003_Monitoring_Data_0,watt_hour,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI003_Monitoring_Data_0,var_min,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI003_Monitoring_Data_0,watt,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI003_Monitoring_Data_0,var,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI003_Monitoring_Data_0,iac_rms,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI003_Monitoring_Data_0,vac_rms,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI003_Monitoring_Data_0,grid_frequency,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI003_Monitoring_Data_0,vpv,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI003_Monitoring_Data_0,ipv,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI003_Monitoring_Data_0,temperature,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI003_Monitoring_Data_0,fw_sub_version,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI003_Monitoring_Data_0,lqi,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI003_Monitoring_Data_1,last_control_sec,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI004_Monitoring_Data_0,fw_version,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI004_Monitoring_Data_0,serial_number,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI004_Monitoring_Data_0,grid_profile_crc,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI004_Monitoring_Data_0,inverter_state,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI004_Monitoring_Data_0,alarms_3,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI004_Monitoring_Data_0,alarms_1,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI004_Monitoring_Data_0,alarms_2,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI004_Monitoring_Data_0,watt_min,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI004_Monitoring_Data_0,watt_hour,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI004_Monitoring_Data_0,var_min,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI004_Monitoring_Data_0,watt,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI004_Monitoring_Data_0,var,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI004_Monitoring_Data_0,iac_rms,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI004_Monitoring_Data_0,vac_rms,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI004_Monitoring_Data_0,grid_frequency,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI004_Monitoring_Data_0,vpv,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI004_Monitoring_Data_0,ipv,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI004_Monitoring_Data_0,temperature,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI004_Monitoring_Data_0,fw_sub_version,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI004_Monitoring_Data_0,lqi,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI004_Monitoring_Data_1,last_control_sec,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI005_Monitoring_Data_0,fw_version,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI005_Monitoring_Data_0,serial_number,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI005_Monitoring_Data_0,grid_profile_crc,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI005_Monitoring_Data_0,inverter_state,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI005_Monitoring_Data_0,alarms_3,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI005_Monitoring_Data_0,alarms_1,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI005_Monitoring_Data_0,alarms_2,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI005_Monitoring_Data_0,watt_min,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI005_Monitoring_Data_0,watt_hour,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI005_Monitoring_Data_0,var_min,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI005_Monitoring_Data_0,watt,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI005_Monitoring_Data_0,var,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI005_Monitoring_Data_0,iac_rms,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI005_Monitoring_Data_0,vac_rms,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI005_Monitoring_Data_0,grid_frequency,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI005_Monitoring_Data_0,vpv,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI005_Monitoring_Data_0,ipv,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI005_Monitoring_Data_0,temperature,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI005_Monitoring_Data_0,fw_sub_version,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI005_Monitoring_Data_0,lqi,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI005_Monitoring_Data_1,last_control_sec,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI006_Monitoring_Data_0,fw_version,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI006_Monitoring_Data_0,serial_number,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI006_Monitoring_Data_0,grid_profile_crc,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI006_Monitoring_Data_0,inverter_state,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI006_Monitoring_Data_0,alarms_3,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI006_Monitoring_Data_0,alarms_1,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI006_Monitoring_Data_0,alarms_2,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI006_Monitoring_Data_0,watt_min,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI006_Monitoring_Data_0,watt_hour,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI006_Monitoring_Data_0,var_min,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI006_Monitoring_Data_0,watt,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI006_Monitoring_Data_0,var,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI006_Monitoring_Data_0,iac_rms,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI006_Monitoring_Data_0,vac_rms,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI006_Monitoring_Data_0,grid_frequency,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI006_Monitoring_Data_0,vpv,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI006_Monitoring_Data_0,ipv,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI006_Monitoring_Data_0,temperature,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI006_Monitoring_Data_0,fw_sub_version,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI006_Monitoring_Data_0,lqi,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI006_Monitoring_Data_1,last_control_sec,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI007_Monitoring_Data_0,fw_version,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI007_Monitoring_Data_0,serial_number,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI007_Monitoring_Data_0,grid_profile_crc,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI007_Monitoring_Data_0,inverter_state,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI007_Monitoring_Data_0,alarms_3,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI007_Monitoring_Data_0,alarms_1,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI007_Monitoring_Data_0,alarms_2,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI007_Monitoring_Data_0,watt_min,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI007_Monitoring_Data_0,watt_hour,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI007_Monitoring_Data_0,var_min,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI007_Monitoring_Data_0,watt,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI007_Monitoring_Data_0,var,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI007_Monitoring_Data_0,iac_rms,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI007_Monitoring_Data_0,vac_rms,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI007_Monitoring_Data_0,grid_frequency,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI007_Monitoring_Data_0,vpv,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI007_Monitoring_Data_0,ipv,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI007_Monitoring_Data_0,temperature,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI007_Monitoring_Data_0,fw_sub_version,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI007_Monitoring_Data_0,lqi,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI007_Monitoring_Data_1,last_control_sec,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI008_Monitoring_Data_0,fw_version,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI008_Monitoring_Data_0,serial_number,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI008_Monitoring_Data_0,grid_profile_crc,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI008_Monitoring_Data_0,inverter_state,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI008_Monitoring_Data_0,alarms_3,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI008_Monitoring_Data_0,alarms_1,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI008_Monitoring_Data_0,alarms_2,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI008_Monitoring_Data_0,watt_min,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI008_Monitoring_Data_0,watt_hour,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI008_Monitoring_Data_0,var_min,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI008_Monitoring_Data_0,watt,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI008_Monitoring_Data_0,var,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI008_Monitoring_Data_0,iac_rms,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI008_Monitoring_Data_0,vac_rms,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI008_Monitoring_Data_0,grid_frequency,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI008_Monitoring_Data_0,vpv,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI008_Monitoring_Data_0,ipv,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI008_Monitoring_Data_0,temperature,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI008_Monitoring_Data_0,fw_sub_version,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI008_Monitoring_Data_0,lqi,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI008_Monitoring_Data_1,last_control_sec,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI009_Monitoring_Data_0,fw_version,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI009_Monitoring_Data_0,serial_number,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI009_Monitoring_Data_0,grid_profile_crc,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI009_Monitoring_Data_0,inverter_state,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI009_Monitoring_Data_0,alarms_3,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI009_Monitoring_Data_0,alarms_1,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI009_Monitoring_Data_0,alarms_2,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI009_Monitoring_Data_0,watt_min,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI009_Monitoring_Data_0,watt_hour,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI009_Monitoring_Data_0,var_min,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI009_Monitoring_Data_0,watt,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI009_Monitoring_Data_0,var,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI009_Monitoring_Data_0,iac_rms,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI009_Monitoring_Data_0,vac_rms,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI009_Monitoring_Data_0,grid_frequency,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI009_Monitoring_Data_0,vpv,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI009_Monitoring_Data_0,ipv,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI009_Monitoring_Data_0,temperature,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI009_Monitoring_Data_0,fw_sub_version,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI009_Monitoring_Data_0,lqi,15 minutes,1 day,MM,MI Monitoring,8 kb
-MI009_Monitoring_Data_1,last_control_sec,15 minutes,1 day,MM,MI Monitoring,8 kb
+MCU_Info,MCU_Boot_FW_VERSION,5 minutes,6 hours,EM,EMSP Maintenance,8 kb
+MCU_Info,MCU_FW_VERSION,5 minutes,6 hours,EM,EMSP Maintenance,8 kb
+MCU_Status,MCU_Startup_Status,5 minutes,6 hours,EM,EMSP Maintenance,8 kb
+MCU_Status,ConDevice_Install_SeqStatus,5 minutes,6 hours,EI,EMSP Installation,8 kb
+MCU_Status,MCU_Operation_Time,5 minutes,6 hours,EM,EMSP Maintenance,8 kb
+MCU_Maintenance,EMSP_HW_Reset_Count,5 minutes,6 hours,EM,EMSP Maintenance,8 kb
+MCU_Maintenance,Set_Grid_Profile_Count,5 minutes,6 hours,EM,EMSP Maintenance,8 kb
+MCU_Maintenance,EMSP_Mac_Frmae_Counter_Count,5 minutes,6 hours,EM,EMSP Maintenance,8 kb
+MCU_Maintenance,MI_Mac_Frmae_Counter_Count,5 minutes,6 hours,EM,EMSP Maintenance,8 kb
+MCU_Maintenance,EEPROM_Update_Count,5 minutes,6 hours,EM,EMSP Maintenance,8 kb
+MCU_Maintenance,EEPROM_Error_Count,5 minutes,6 hours,EM,EMSP Maintenance,8 kb
+PMU_Control_Data_01,Power_Control_Point,1 minute,6 hours,PMM,PMU Monitoring,8 kb
+PMU_Control_Data_01,System_Target_Power,1 minute,6 hours,PMM,PMU Monitoring,8 kb
+PMU_Control_Data_01,Battery_Target_Power,1 minute,6 hours,PMM,PMU Monitoring,8 kb
+PMU_Control_Data_01,PV_Power_Limit,1 minute,6 hours,PMM,PMU Monitoring,8 kb
+PMU_Control_Data_01,Battery_Installation_Status,1 minute,6 hours,PMM,PMU Monitoring,8 kb
+PMU_Control_Data_01,Feeder_Ex_P_Limit,1 minute,6 hours,PMM,PMU Monitoring,8 kb
+PMU_Control_Data_01,Feeder_Im_P_Limit,1 minute,6 hours,PMM,PMU Monitoring,8 kb
+PMU_Control_Data_01,Tot_ESS_to_Grid_Ex_P_Limit,1 minute,6 hours,PMM,PMU Monitoring,8 kb
+PMU_Control_Data_01,Tot_ESS_to_Grid_Im_P_Limit,1 minute,6 hours,PMM,PMU Monitoring,8 kb
+PMU_Control_Data_01,Tot_ESS_Ex_P_Limit,1 minute,6 hours,PMM,PMU Monitoring,8 kb
+PMU_Control_Data_01,Tot_ESS_Im_P_Limit,1 minute,6 hours,PMM,PMU Monitoring,8 kb
+PMU_Control_Data_01,Feed_In_Limit_Flag,1 minute,6 hours,PMM,PMU Monitoring,8 kb
+PMU_Control_Data_01,Feed_In_Limit,1 minute,6 hours,PMM,PMU Monitoring,8 kb
+PMU_Control_Data_01,Install_Flag1,1 minute,6 hours,PMM,PMU Monitoring,8 kb
+PMU_Control_Data_01,Install_Flag2,1 minute,6 hours,PMM,PMU Monitoring,8 kb
+PMU_Control_Data_01,System_Flag1,1 minute,6 hours,PMM,PMU Monitoring,8 kb
+PMU_Control_Data_02,ESS1_Final_Target_P,1 minute,6 hours,PMM,PMU Monitoring,8 kb
+PMU_Control_Data_02,ESS2_Final_Target_P,1 minute,6 hours,PMM,PMU Monitoring,8 kb
+PMU_Control_Data_02,ESS3_Final_Target_P,1 minute,6 hours,PMM,PMU Monitoring,8 kb
+PMU_Control_Data_02,ESS4_Final_Target_P,1 minute,6 hours,PMM,PMU Monitoring,8 kb
+PMU_Control_Data_02,MI_Power_Limit_Cmd,1 minute,6 hours,PMM,PMU Monitoring,8 kb
+PMU_Control_Data_02,Operation_Stop_Flag,1 minute,6 hours,PMM,PMU Monitoring,8 kb
+PMU_Control_Data_02,Device_Available_Flag,1 minute,6 hours,PMM,PMU Monitoring,8 kb
+PMU_Control_Data_02,ESS1_Operation_Cmd,1 minute,6 hours,PMM,PMU Monitoring,8 kb
+PMU_Control_Data_02,ESS2_Operation_Cmd,1 minute,6 hours,PMM,PMU Monitoring,8 kb
+PMU_Control_Data_02,ESS3_Operation_Cmd,1 minute,6 hours,PMM,PMU Monitoring,8 kb
+PMU_Control_Data_02,ESS4_Operation_Cmd,1 minute,6 hours,PMM,PMU Monitoring,8 kb
+PMU_Control_Data_02,MI_Operation_Cmd,1 minute,6 hours,PMM,PMU Monitoring,8 kb
+PMU_Control_Data_02,MPU_Fault_Release_Cmd,1 minute,6 hours,PMM,PMU Monitoring,8 kb
+PMU_Control_Data_02,MSC_MID_Cmd,1 minute,6 hours,PMM,PMU Monitoring,8 kb
+PMU_Control_Data_02,ESS_Voltage_Ref,1 minute,6 hours,PMM,PMU Monitoring,8 kb
+PMS_CMD,PMS_CMD,1 minute,6 hours,PMM,PMU Monitoring,8 kb
+PCS_Error_Status_1,Grid_Fault_Flag0,1 sec,3 minutes,PCF,PCS Fault,8 kb
+PCS_Error_Status_1,Grid_Fault_Flag1,1 sec,3 minutes,PCF,PCS Fault,8 kb
+PCS_Error_Status_1,Grid_Fault_Flag2,1 sec,3 minutes,PCF,PCS Fault,8 kb
+PCS_Error_Status_1,Grid_Fault_Flag3,1 sec,3 minutes,PCF,PCS Fault,8 kb
+PCS_Error_Status_1,Grid_Fault_Flag4,1 sec,3 minutes,PCF,PCS Fault,8 kb
+PCS_Error_Status_1,Grid_Fault_Flag5,1 sec,3 minutes,PCF,PCS Fault,8 kb
+PCS_Error_Status_1,Grid_Fault_Flag6,1 sec,3 minutes,PCF,PCS Fault,8 kb
+PCS_Error_Status_1,Grid_Fault_Flag7,1 sec,3 minutes,PCF,PCS Fault,8 kb
+PCS_Error_Status_1,Grid_Warning_Flag0,1 sec,3 minutes,PCF,PCS Fault,8 kb
+PCS_Error_Status_1,Grid_Warning_Flag1,1 sec,3 minutes,PCF,PCS Fault,8 kb
+PCS_Error_Status_1,Grid_Warning_Flag2,1 sec,3 minutes,PCF,PCS Fault,8 kb
+PCS_Error_Status_1,Grid_Warning_Flag3,1 sec,3 minutes,PCF,PCS Fault,8 kb
+PCS_Error_Status_1,Grid_Warning_Flag4,1 sec,3 minutes,PCF,PCS Fault,8 kb
+PCS_Error_Status_1,Grid_Warning_Flag5,1 sec,3 minutes,PCF,PCS Fault,8 kb
+PCS_Error_Status_1,Grid_Warning_Flag6,1 sec,3 minutes,PCF,PCS Fault,8 kb
+PCS_Error_Status_1,Grid_Warning_Flag7,1 sec,3 minutes,PCF,PCS Fault,8 kb
+PCS_Error_Status_1,Grid_Alarm_Flag0,1 sec,3 minutes,PCF,PCS Fault,8 kb
+PCS_Error_Status_1,Grid_Alarm_Flag1,1 sec,3 minutes,PCF,PCS Fault,8 kb
+PCS_Error_Status_1,Grid_Alarm_Flag2,1 sec,3 minutes,PCF,PCS Fault,8 kb
+PCS_Error_Status_1,Grid_Alarm_Flag3,1 sec,3 minutes,PCF,PCS Fault,8 kb
+PCS_Error_Status_1,Grid_Alarm_Flag4,1 sec,3 minutes,PCF,PCS Fault,8 kb
+PCS_Error_Status_1,Grid_Alarm_Flag5,1 sec,3 minutes,PCF,PCS Fault,8 kb
+PCS_Error_Status_1,Grid_Alarm_Flag6,1 sec,3 minutes,PCF,PCS Fault,8 kb
+PCS_Error_Status_1,Grid_Alarm_Flag7,1 sec,3 minutes,PCF,PCS Fault,8 kb
+PCS_Error_Status_1,PCS_Fault_Flag0,1 sec,3 minutes,PCF,PCS Fault,8 kb
+PCS_Error_Status_1,PCS_Fault_Flag1,1 sec,3 minutes,PCF,PCS Fault,8 kb
+PCS_Error_Status_1,PCS_Fault_Flag2,1 sec,3 minutes,PCF,PCS Fault,8 kb
+PCS_Error_Status_1,PCS_Fault_Flag3,1 sec,3 minutes,PCF,PCS Fault,8 kb
+PCS_Error_Status_1,PCS_Fault_Flag4,1 sec,3 minutes,PCF,PCS Fault,8 kb
+PCS_Error_Status_1,PCS_Fault_Flag5,1 sec,3 minutes,PCF,PCS Fault,8 kb
+PCS_Error_Status_1,PCS_Fault_Flag6,1 sec,3 minutes,PCF,PCS Fault,8 kb
+PCS_Error_Status_1,PCS_Fault_Flag7,1 sec,3 minutes,PCF,PCS Fault,8 kb
+PCS_Error_Status_1,PCS_Warning_Flag0,1 sec,3 minutes,PCF,PCS Fault,8 kb
+PCS_Error_Status_1,PCS_Warning_Flag1,1 sec,3 minutes,PCF,PCS Fault,8 kb
+PCS_Error_Status_1,PCS_Warning_Flag2,1 sec,3 minutes,PCF,PCS Fault,8 kb
+PCS_Error_Status_1,PCS_Warning_Flag3,1 sec,3 minutes,PCF,PCS Fault,8 kb
+PCS_Error_Status_1,PCS_Warning_Flag4,1 sec,3 minutes,PCF,PCS Fault,8 kb
+PCS_Error_Status_1,PCS_Warning_Flag5,1 sec,3 minutes,PCF,PCS Fault,8 kb
+PCS_Error_Status_1,PCS_Warning_Flag6,1 sec,3 minutes,PCF,PCS Fault,8 kb
+PCS_Error_Status_1,PCS_Warning_Flag7,1 sec,3 minutes,PCF,PCS Fault,8 kb
+PCS_Error_Status_1,PCS_Alarm_Flag8,1 sec,3 minutes,PCF,PCS Fault,8 kb
+PCS_Error_Status_1,PCS_Alarm_Flag9,1 sec,3 minutes,PCF,PCS Fault,8 kb
+PCS_Error_Status_1,PCS_Alarm_Flag10,1 sec,3 minutes,PCF,PCS Fault,8 kb
+PCS_Error_Status_1,PCS_Alarm_Flag11,1 sec,3 minutes,PCF,PCS Fault,8 kb
+PCS_Error_Status_1,PCS_Alarm_Flag12,1 sec,3 minutes,PCF,PCS Fault,8 kb
+PCS_Error_Status_1,PCS_Alarm_Flag13,1 sec,3 minutes,PCF,PCS Fault,8 kb
+PCS_Error_Status_1,PCS_Alarm_Flag14,1 sec,3 minutes,PCF,PCS Fault,8 kb
+PCS_Error_Status_1,PCS_Alarm_Flag15,1 sec,3 minutes,PCF,PCS Fault,8 kb
+PCS_Error_Status_2,BDC_Fault_Flag0,1 sec,3 minutes,PCF,PCS Fault,8 kb
+PCS_Error_Status_2,BDC_Fault_Flag1,1 sec,3 minutes,PCF,PCS Fault,8 kb
+PCS_Error_Status_2,BDC_Fault_Flag2,1 sec,3 minutes,PCF,PCS Fault,8 kb
+PCS_Error_Status_2,BDC_Fault_Flag3,1 sec,3 minutes,PCF,PCS Fault,8 kb
+PCS_Error_Status_2,BDC_Fault_Flag4,1 sec,3 minutes,PCF,PCS Fault,8 kb
+PCS_Error_Status_2,BDC_Fault_Flag5,1 sec,3 minutes,PCF,PCS Fault,8 kb
+PCS_Error_Status_2,BDC_Fault_Flag6,1 sec,3 minutes,PCF,PCS Fault,8 kb
+PCS_Error_Status_2,BDC_Fault_Flag7,1 sec,3 minutes,PCF,PCS Fault,8 kb
+PCS_Error_Status_2,BDC_Warning_Flag0,1 sec,3 minutes,PCF,PCS Fault,8 kb
+PCS_Error_Status_2,BDC_Warning_Flag1,1 sec,3 minutes,PCF,PCS Fault,8 kb
+PCS_Error_Status_2,BDC_Warning_Flag2,1 sec,3 minutes,PCF,PCS Fault,8 kb
+PCS_Error_Status_2,BDC_Warning_Flag3,1 sec,3 minutes,PCF,PCS Fault,8 kb
+PCS_Error_Status_2,BDC_Warning_Flag4,1 sec,3 minutes,PCF,PCS Fault,8 kb
+PCS_Error_Status_2,BDC_Warning_Flag5,1 sec,3 minutes,PCF,PCS Fault,8 kb
+PCS_Error_Status_2,BDC_Warning_Flag6,1 sec,3 minutes,PCF,PCS Fault,8 kb
+PCS_Error_Status_2,BDC_Warning_Flag7,1 sec,3 minutes,PCF,PCS Fault,8 kb
+PCS_Error_Status_2,BDC_Alarm_Flag0,1 sec,3 minutes,PCF,PCS Fault,8 kb
+PCS_Error_Status_2,BDC_Alarm_Flag1,1 sec,3 minutes,PCF,PCS Fault,8 kb
+PCS_Error_Status_2,BDC_Alarm_Flag2,1 sec,3 minutes,PCF,PCS Fault,8 kb
+PCS_Error_Status_2,BDC_Alarm_Flag3,1 sec,3 minutes,PCF,PCS Fault,8 kb
+PCS_Error_Status_2,BDC_Alarm_Flag4,1 sec,3 minutes,PCF,PCS Fault,8 kb
+PCS_Error_Status_2,BDC_Alarm_Flag5,1 sec,3 minutes,PCF,PCS Fault,8 kb
+PCS_Error_Status_2,BDC_Alarm_Flag6,1 sec,3 minutes,PCF,PCS Fault,8 kb
+PCS_Error_Status_2,BDC_Alarm_Flag7,1 sec,3 minutes,PCF,PCS Fault,8 kb
+PCS_Error_Status_2,MCU_Fault_Flag0,1 sec,3 minutes,PCF,PCS Fault,8 kb
+PCS_Error_Status_2,MCU_Fault_Flag1,1 sec,3 minutes,PCF,PCS Fault,8 kb
+PCS_Error_Status_2,MCU_Fault_Flag2,1 sec,3 minutes,PCF,PCS Fault,8 kb
+PCS_Error_Status_2,MCU_Fault_Flag3,1 sec,3 minutes,PCF,PCS Fault,8 kb
+PCS_Error_Status_2,MCU_Fault_Flag4,1 sec,3 minutes,PCF,PCS Fault,8 kb
+PCS_Error_Status_2,MCU_Fault_Flag5,1 sec,3 minutes,PCF,PCS Fault,8 kb
+PCS_Error_Status_2,MCU_Fault_Flag6,1 sec,3 minutes,PCF,PCS Fault,8 kb
+PCS_Error_Status_2,MCU_Fault_Flag7,1 sec,3 minutes,PCF,PCS Fault,8 kb
+PCS_Error_Status_2,MCU_Warning_Flag0,1 sec,3 minutes,PCF,PCS Fault,8 kb
+PCS_Error_Status_2,MCU_Warning_Flag1,1 sec,3 minutes,PCF,PCS Fault,8 kb
+PCS_Error_Status_2,MCU_Warning_Flag2,1 sec,3 minutes,PCF,PCS Fault,8 kb
+PCS_Error_Status_2,MCU_Warning_Flag3,1 sec,3 minutes,PCF,PCS Fault,8 kb
+PCS_Error_Status_2,MCU_Warning_Flag4,1 sec,3 minutes,PCF,PCS Fault,8 kb
+PCS_Error_Status_2,MCU_Warning_Flag5,1 sec,3 minutes,PCF,PCS Fault,8 kb
+PCS_Error_Status_2,MCU_Warning_Flag6,1 sec,3 minutes,PCF,PCS Fault,8 kb
+PCS_Error_Status_2,MCU_Warning_Flag7,1 sec,3 minutes,PCF,PCS Fault,8 kb
+PCS_Error_Status_2,MCU_Alarm_Flag0,1 sec,3 minutes,PCF,PCS Fault,8 kb
+PCS_Error_Status_2,MCU_Alarm_Flag1,1 sec,3 minutes,PCF,PCS Fault,8 kb
+PCS_Error_Status_2,MCU_Alarm_Flag2,1 sec,3 minutes,PCF,PCS Fault,8 kb
+PCS_Error_Status_2,MCU_Alarm_Flag3,1 sec,3 minutes,PCF,PCS Fault,8 kb
+PCS_Error_Status_2,MCU_Alarm_Flag4,1 sec,3 minutes,PCF,PCS Fault,8 kb
+PCS_Error_Status_2,MCU_Alarm_Flag5,1 sec,3 minutes,PCF,PCS Fault,8 kb
+PCS_Error_Status_2,MCU_Alarm_Flag6,1 sec,3 minutes,PCF,PCS Fault,8 kb
+PCS_Error_Status_2,MCU_Alarm_Flag7,1 sec,3 minutes,PCF,PCS Fault,8 kb
+PCS_Control_Data,Inv_Active_Power,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+PCS_Control_Data,BDC_Power_250ms,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+PCS_Control_Data,Target_Active_Power,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+PCS_Control_Data,Total_Export_Power_Limit,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+PCS_Control_Data,Total_Import_Power_Limit,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+PCS_Control_Data,Grid_Code_Export_Power_Limit,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+PCS_Control_Data,Grid_Code_Import_Power_Limit,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+PCS_Control_Data,RN_PCS_Grid_Apparent_Power,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+PCS_Control_Data,RN_PCS_Grid_Active_Power,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+PCS_Control_Data,RN_PCS_Grid_Reactive_Power,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+PCS_Control_Data,RN_PCS_Grid_Power_Factor,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+PCS_Control_Data,SN_PCS_Grid_Apparent_Power,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+PCS_Control_Data,SN_PCS_Grid_Active_Power,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+PCS_Control_Data,SN_PCS_Grid_Reactive_Power,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+PCS_Control_Data,SN_PCS_Grid_Power_Factor,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+PCS_Control_Data,RN_PCS_Inverter_Apparent_Power,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+PCS_Control_Data,RN_PCS_Inverter_Active_Power,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+PCS_Control_Data,RN_PCS_Inverter_Reactive_Power,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+PCS_Control_Data,RN_PCS_Inverter_Power_Factor,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+PCS_Control_Data,SN_PCS_Inverter_Apparent_Power,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+PCS_Control_Data,SN_PCS_Inverter_Active_Power,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+PCS_Control_Data,SN_PCS_Inverter_Reactive_Power,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+PCS_Control_Data,SN_PCS_Inverter_Power_Factor,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+PCS_Control_Data,RN_PCS_Inverter_Voltage,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+PCS_Control_Data,SN_PCS_Inverter_Voltage,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+PCS_Control_Data,RN_PCS_Inverter_Voltage_DC_Offset,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+PCS_Control_Data,SN_PCS_Inverter_Voltage_DC_Offset,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+PCS_Control_Data,BDC_Temperature_M1_S_LEG1,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+PCS_Control_Data,BDC_Temperature_M1_S_LEG2,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+PCS_Control_Data,BDC_Temperature_M2_S_LEG1,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+PCS_Control_Data,BDC_Temperature_M2_S_LEG2,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+1s_Monitoring_Data_1,PCS_CMD1,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+1s_Monitoring_Data_1,Power_Control_Point,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+1s_Monitoring_Data_1,INV_Target_Power,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+1s_Monitoring_Data_1,Battery_Target_Power,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+1s_Monitoring_Data_1,BPU_FWVer,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+1s_Monitoring_Data_1,BootVer_BPU,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+1s_Monitoring_Data_1,BPU_HW_Ver,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+1s_Monitoring_Data_1,Inverter_CPU1_Heartbeat,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+1s_Monitoring_Data_1,Inverter_CPU1_Core_Area_Status,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+1s_Monitoring_Data_1,Inverter_CPU2_Heartbeat,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+1s_Monitoring_Data_1,Inverter_CPU2_Core_Area_Status,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+1s_Monitoring_Data_1,Converter_CPU1_Heartbeat,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+1s_Monitoring_Data_1,Converter_CPU1_Core_Area_Status,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+1s_Monitoring_Data_1,Converter_CPU2_Heartbeat,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+1s_Monitoring_Data_1,Converter_CPU2_Core_Area_Status,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+1s_Monitoring_Data_1,ESS_Inverter_Frequency,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+1s_Monitoring_Data_1,ESS_Grid_Frequency,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+1s_Monitoring_Data_1,BDC_CPU1_FWVer,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+1s_Monitoring_Data_1,BDC_CPU2_FWVer,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+1s_Monitoring_Data_1,INVERTER_CPU1_FWVer,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+1s_Monitoring_Data_1,INVERTER_CPU2_FWVer,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+1s_Monitoring_Data_1,BootVer_BDC,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+1s_Monitoring_Data_1,BootVer_INV,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+1s_Monitoring_Data_1,PCS_HW_MainBoard_Ver,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+1s_Monitoring_Data_1,PCS_HW_FilterBoard_Ver,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+1s_Monitoring_Data_2,RS_PCS_Grid_Voltage,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+1s_Monitoring_Data_2,RN_PCS_Grid_Voltage,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+1s_Monitoring_Data_2,SN_PCS_Grid_Voltage,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+1s_Monitoring_Data_2,Total_PCS_Grid_Current,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+1s_Monitoring_Data_2,Total_PCS_Grid_Apparent_Power,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+1s_Monitoring_Data_2,Total_PCS_Grid_Active_Power,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+1s_Monitoring_Data_2,Total_PCS_Grid_Reactive_Power,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+1s_Monitoring_Data_2,Total_PCS_Grid_Power_Factor,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+1s_Monitoring_Data_2,RS_PCS_Inverter_Voltage,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+1s_Monitoring_Data_2,L1_PCS_Inverter_Current,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+1s_Monitoring_Data_2,L2_PCS_Inverter_Current,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+1s_Monitoring_Data_2,Total_PCS_Inverter_Apparent_Power,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+1s_Monitoring_Data_2,Total_RCMU_Current,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+1s_Monitoring_Data_2,Total_PCS_Inverter_Active_Power,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+1s_Monitoring_Data_2,Total_PCS_Inverter_Reactive_Power,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+1s_Monitoring_Data_2,Total_PCS_Inverter_Power_Factor,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+1s_Monitoring_Data_2,Total_PCS_Grid_Voltage_DC_Offset,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+1s_Monitoring_Data_2,RN_PCS_Grid_Voltage_DC_Offset,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+1s_Monitoring_Data_2,SN_PCS_Grid_Voltage_DC_Offset,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+1s_Monitoring_Data_2,RS_PCS_Inverter_Voltage_DC_Offset,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+1s_Monitoring_Data_2,L1_PCS_Inverter_Current_DC_Offset,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+1s_Monitoring_Data_2,L2_PCS_Inverter_Current_DC_Offset,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+1s_Monitoring_Data_2,Total_RCMU_Current_DC_Offset,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+1s_Monitoring_Data_2,SMPS_5V_Inverter,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+1s_Monitoring_Data_2,SMPS_5V_Converter,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+1s_Monitoring_Data_2,SMPS_24V_Inverter,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+1s_Monitoring_Data_2,SMPS_24V_Converter,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+1s_Monitoring_Data_2,BDC_Power_1s,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+1s_Monitoring_Data_2,BDC_Voltage_CONV,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+1s_Monitoring_Data_2,BDC_Current1_CONV,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+1s_Monitoring_Data_2,BDC_Current2_CONV,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+1s_Monitoring_Data_3,BAT_Voltage_CONV,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+1s_Monitoring_Data_3,dclink_v_ref,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+1s_Monitoring_Data_3,BDC_Current_Ref,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+1s_Monitoring_Data_3,BDC_Power_Ref,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+1s_Monitoring_Data_3,INV_Temperature_LEG2,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+1s_Monitoring_Data_3,INV_Temperature_LEG4,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+1s_Monitoring_Data_3,System_Temperature,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+1s_Monitoring_Data_3,BDC_Temperature_M1_P_LEG1,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+1s_Monitoring_Data_3,BDC_Temperature_M1_P_LEG2,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+1s_Monitoring_Data_3,PCS_BDC_Operation_Seq_index,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+1s_Monitoring_Data_3,PCS_INV_Operation_Seq_index,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+1s_Monitoring_Data_3,PCS_Status,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+1s_Monitoring_Data_3,PCS_Standby_Seq_Index,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+1s_Monitoring_Data_3,PCS_Ready_Seq_Index,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+1s_Monitoring_Data_3,PCS_Operation_Seq_Index,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+1s_Monitoring_Data_3,PCS_Protection_Seq_Index,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+1s_Monitoring_Data_3,DCLink_Voltage_INV_HL,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+1s_Monitoring_Data_3,BDC_Charge_Power_Limit,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+1s_Monitoring_Data_3,DCLink_Voltage_BDC_HL,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+1s_Monitoring_Data_3,BDC_Discharge_Power_Limit,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+1s_Monitoring_Data_3,DCLink_Voltage_INV_HM,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+1s_Monitoring_Data_3,DCLink_Voltage_BDC_HM,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+1s_Monitoring_Data_3,DCLink_Voltage_INV_ML,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+1s_Monitoring_Data_3,DCLink_Voltage_BDC_ML,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+1s_Monitoring_Data_3,BDC_Discharge_Current_Limit,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+1s_Monitoring_Data_3,BDC_Charge_Current_Limit,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+1s_Monitoring_Data_3,Total_Rack_Current,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+1s_Monitoring_Data_3,INV_Temperature_LEG5,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+1s_Monitoring_Data_3,BDC_Temperature_M2_P_LEG1,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+1s_Monitoring_Data_3,BDC_Temperature_M2_P_LEG2,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+HUB_Control_Data,HUB_Relay_Status,1 minute,6 hours,AHM,Advanced HUB Monitoring,8 kb
+HUB_Control_Data,Install_Check_Status,1 minute,6 hours,AHM,Advanced HUB Monitoring,8 kb
+HUB_Control_Data,GEN_Freq,1 minute,6 hours,AHM,Advanced HUB Monitoring,8 kb
+HUB_Control_Data,GEN_LL_V,1 minute,6 hours,AHM,Advanced HUB Monitoring,8 kb
+HUB_Control_Data,GEN_Active_Power,1 minute,6 hours,AHM,Advanced HUB Monitoring,8 kb
+HUB_Control_Data,GEN_Reactive_Power,1 minute,6 hours,AHM,Advanced HUB Monitoring,8 kb
+HUB_Control_Data,DER1_Active_Power,1 minute,6 hours,AHM,Advanced HUB Monitoring,8 kb
+HUB_Control_Data,DER1_Reactive_Power,1 minute,6 hours,AHM,Advanced HUB Monitoring,8 kb
+HUB_Control_Data,DER2_Active_Power,1 minute,6 hours,AHM,Advanced HUB Monitoring,8 kb
+HUB_Control_Data,DER2_Reactive_Power,1 minute,6 hours,AHM,Advanced HUB Monitoring,8 kb
+HUB_Control_Data,DER3_Active_Power,1 minute,6 hours,AHM,Advanced HUB Monitoring,8 kb
+HUB_Control_Data,DER3_Reactive_Power,1 minute,6 hours,AHM,Advanced HUB Monitoring,8 kb
+HUB_Control_Data,DER4_Active_Power,1 minute,6 hours,AHM,Advanced HUB Monitoring,8 kb
+HUB_Control_Data,DER4_Reactive_Power,1 minute,6 hours,AHM,Advanced HUB Monitoring,8 kb
+HUB_Control_Data,HUB_FWVer,1 minute,6 hours,AHM,Advanced HUB Monitoring,8 kb
+HUB_Control_Data,HUB_BootVer,1 minute,6 hours,AHM,Advanced HUB Monitoring,8 kb
+HUB_Control_Data,HUB_HW_MainBoard_Ver,1 minute,6 hours,AHM,Advanced HUB Monitoring,8 kb
+PCS_Status_Data,System_Flag0_0,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+PCS_Status_Data,System_Flag0_1,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+PCS_Status_Data,System_Flag0_2,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+PCS_Status_Data,System_Flag0_3,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+PCS_Status_Data,System_Flag0_4,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+PCS_Status_Data,System_Flag0_5,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+PCS_Status_Data,System_Flag0_6,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+PCS_Status_Data,System_Flag0_7,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+PCS_Status_Data,System_Flag1_0,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+PCS_Status_Data,System_Flag1_1,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+PCS_Status_Data,System_Flag1_2,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+PCS_Status_Data,System_Flag1_3,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+PCS_Status_Data,System_Flag1_4,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+PCS_Status_Data,System_Flag1_5,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+PCS_Status_Data,System_Flag1_6,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+PCS_Status_Data,System_Flag1_7,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+BPU_Monitoring_Data_1,PcstoBpu_Relay_Close_CMD,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+BPU_Monitoring_Data_1,PcstoBpu_Relay_Open_CMD,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+BPU_Monitoring_Data_1,PcstoBpu_Heating_Pad_CMD,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+BPU_Monitoring_Data_1,BPU1_Status,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+BPU_Monitoring_Data_1,BPU2_Status,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+BPU_Monitoring_Data_1,BPU3_Status,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+BPU_Monitoring_Data_1,BPU4_Status,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+BPU_Monitoring_Data_1,BPU1_Mode,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+BPU_Monitoring_Data_1,BPU2_Mode,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+BPU_Monitoring_Data_1,BPU3_Mode,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+BPU_Monitoring_Data_1,BPU4_Mode,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+BPU_Monitoring_Data_1,BPU1_Battery_Voltage,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+BPU_Monitoring_Data_1,BPU2_Battery_Voltage,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+BPU_Monitoring_Data_1,BPU3_Battery_Voltage,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+BPU_Monitoring_Data_1,BPU4_Battery_Voltage,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+BPU_Monitoring_Data_1,BPU1_DC_Bus_Voltage,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+BPU_Monitoring_Data_1,BPU2_DC_Bus_Voltage,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+BPU_Monitoring_Data_1,BPU3_DC_Bus_Voltage,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+BPU_Monitoring_Data_1,BPU4_DC_Bus_Voltage,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+BPU_Monitoring_Data_1,BPU1_SMPS_12V_Voltage,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+BPU_Monitoring_Data_1,BPU2_SMPS_12V_Voltage,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+BPU_Monitoring_Data_1,BPU1_SMPS_13V_Voltage,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+BPU_Monitoring_Data_1,BPU2_SMPS_13V_Voltage,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+BPU_Monitoring_Data_1,BPU1_Temp,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+BPU_Monitoring_Data_1,BPU2_Temp,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+BPU_Monitoring_Data_1,BPU3_Temp,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+BPU_Monitoring_Data_1,BPU4_Temp,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+BPU_Monitoring_Data_1,BPU1_Current,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+BPU_Monitoring_Data_1,BPU2_Current,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+BPU_Monitoring_Data_1,BPU3_Current,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+BPU_Monitoring_Data_1,BPU4_Current,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+BPU_Monitoring_Data_1,BPU1_CT_Error_Info,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+BPU_Monitoring_Data_1,BPU2_CT_Error_Info,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+BPU_Monitoring_Data_1,BPU3_CT_Error_Info,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+BPU_Monitoring_Data_1,BPU4_CT_Error_Info,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+BPU_Monitoring_Data_2,BPU1_Power,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+BPU_Monitoring_Data_2,BPU2_Power,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+BPU_Monitoring_Data_2,BPU3_Power,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+BPU_Monitoring_Data_2,BPU4_Power,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+BPU_Monitoring_Data_2,BPU_Fault_Flag0,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+BPU_Monitoring_Data_2,BPU_Fault_Flag1,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+BPU_Monitoring_Data_2,BPU_Fault_Flag2,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+BPU_Monitoring_Data_2,BPU_Fault_Flag3,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+BPU_Monitoring_Data_2,BPU_Fault_Flag4,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+BPU_Monitoring_Data_2,BPU_Fault_Flag5,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+BPU_Monitoring_Data_2,BPU_Fault_Flag6,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+BPU_Monitoring_Data_2,BPU_Fault_Flag7,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+BPU_Monitoring_Data_2,BPU_Warning_Flag0,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+BPU_Monitoring_Data_2,BPU_Warning_Flag1,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+BPU_Monitoring_Data_2,BPU_Warning_Flag2,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+BPU_Monitoring_Data_2,BPU_Warning_Flag3,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+BPU_Monitoring_Data_2,BPU_Warning_Flag4,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+BPU_Monitoring_Data_2,BPU_Warning_Flag5,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+BPU_Monitoring_Data_2,BPU_Warning_Flag6,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+BPU_Monitoring_Data_2,BPU_Warning_Flag7,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+BPU_Monitoring_Data_2,BPU_MCU_Fault_Flag0,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+BPU_Monitoring_Data_2,BPU_MCU_Fault_Flag1,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+BPU_Monitoring_Data_2,BPU_MCU_Fault_Flag2,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+BPU_Monitoring_Data_2,BPU_MCU_Fault_Flag3,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+BPU_Monitoring_Data_2,BPU_MCU_Fault_Flag4,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+BPU_Monitoring_Data_2,BPU_MCU_Fault_Flag5,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+BPU_Monitoring_Data_2,BPU_MCU_Fault_Flag6,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+BPU_Monitoring_Data_2,BPU_MCU_Fault_Flag7,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+BPU_Monitoring_Data_2,BPU_MCU_Warning_Flag0,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+BPU_Monitoring_Data_2,BPU_MCU_Warning_Flag1,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+BPU_Monitoring_Data_2,BPU_MCU_Warning_Flag2,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+BPU_Monitoring_Data_2,BPU_MCU_Warning_Flag3,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+BPU_Monitoring_Data_2,BPU_MCU_Warning_Flag4,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+BPU_Monitoring_Data_2,BPU_MCU_Warning_Flag5,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+BPU_Monitoring_Data_2,BPU_MCU_Warning_Flag6,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+BPU_Monitoring_Data_2,BPU_MCU_Warning_Flag7,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+BPU_Monitoring_Data_2,BPU_Main_P_Relay_Feedback,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+BPU_Monitoring_Data_2,BPU_Main_N_Relay_Feedback,1 minute,6 hours,PCCM,PCS CAN Monitoring,8 kb
+fault_Monitoring_Data_offset,ADC1_Offset,1 minute,6 hours,PCFM,PCS Fault Monitoring,8 kb
+fault_Monitoring_Data_offset,ADC2_Offset,1 minute,6 hours,PCFM,PCS Fault Monitoring,8 kb
+fault_Monitoring_Data_offset,ADC3_Offset,1 minute,6 hours,PCFM,PCS Fault Monitoring,8 kb
+fault_Monitoring_Data_offset,ADC4_Offset,1 minute,6 hours,PCFM,PCS Fault Monitoring,8 kb
+fault_Monitoring_Data_offset,ADC5_Offset,1 minute,6 hours,PCFM,PCS Fault Monitoring,8 kb
+fault_Monitoring_Data_offset,ADC6_Offset,1 minute,6 hours,PCFM,PCS Fault Monitoring,8 kb
+fault_Monitoring_Data_offset,ADC7_Offset,1 minute,6 hours,PCFM,PCS Fault Monitoring,8 kb
+fault_Monitoring_Data_offset,ADC8_Offset,1 minute,6 hours,PCFM,PCS Fault Monitoring,8 kb
+fault_Monitoring_Data_offset,ADC9_Offset,1 minute,6 hours,PCFM,PCS Fault Monitoring,8 kb
+fault_Monitoring_Data_offset,ADC10_Offset,1 minute,6 hours,PCFM,PCS Fault Monitoring,8 kb
+fault_Monitoring_Data_offset,ADC11_Offset,1 minute,6 hours,PCFM,PCS Fault Monitoring,8 kb
+fault_Monitoring_Data_offset,ADC1_Gain,1 minute,6 hours,PCFM,PCS Fault Monitoring,8 kb
+fault_Monitoring_Data_offset,ADC2_Gain,1 minute,6 hours,PCFM,PCS Fault Monitoring,8 kb
+fault_Monitoring_Data_offset,ADC3_Gain,1 minute,6 hours,PCFM,PCS Fault Monitoring,8 kb
+fault_Monitoring_Data_offset,ADC4_Gain,1 minute,6 hours,PCFM,PCS Fault Monitoring,8 kb
+fault_Monitoring_Data_offset,ADC5_Gain,1 minute,6 hours,PCFM,PCS Fault Monitoring,8 kb
+fault_Monitoring_Data_offset,ADC6_Gain,1 minute,6 hours,PCFM,PCS Fault Monitoring,8 kb
+fault_Monitoring_Data_offset,ADC7_Gain,1 minute,6 hours,PCFM,PCS Fault Monitoring,8 kb
+fault_Monitoring_Data_offset,ADC8_Gain,1 minute,6 hours,PCFM,PCS Fault Monitoring,8 kb
+fault_Monitoring_Data_offset,ADC9_Gain,1 minute,6 hours,PCFM,PCS Fault Monitoring,8 kb
+fault_Monitoring_Data_offset,ADC10_Gain,1 minute,6 hours,PCFM,PCS Fault Monitoring,8 kb
+fault_Monitoring_Data_offset,ADC11_Gain,1 minute,6 hours,PCFM,PCS Fault Monitoring,8 kb
+fault_Monitoring_Data_Gain,ADC1_Cal,1 minute,6 hours,PCFM,PCS Fault Monitoring,8 kb
+fault_Monitoring_Data_Gain,ADC2_Cal,1 minute,6 hours,PCFM,PCS Fault Monitoring,8 kb
+fault_Monitoring_Data_Gain,ADC2_Cal,1 minute,6 hours,PCFM,PCS Fault Monitoring,8 kb
+fault_Monitoring_Data_Gain,ADC3_Cal,1 minute,6 hours,PCFM,PCS Fault Monitoring,8 kb
+fault_Monitoring_Data_Gain,ADC4_Cal,1 minute,6 hours,PCFM,PCS Fault Monitoring,8 kb
+fault_Monitoring_Data_Gain,ADC5_Cal,1 minute,6 hours,PCFM,PCS Fault Monitoring,8 kb
+fault_Monitoring_Data_Gain,ADC6_Cal,1 minute,6 hours,PCFM,PCS Fault Monitoring,8 kb
+fault_Monitoring_Data_Gain,ADC7_Cal,1 minute,6 hours,PCFM,PCS Fault Monitoring,8 kb
+fault_Monitoring_Data_Gain,ADC8_Cal,1 minute,6 hours,PCFM,PCS Fault Monitoring,8 kb
+fault_Monitoring_Data_Gain,ADC9_Cal,1 minute,6 hours,PCFM,PCS Fault Monitoring,8 kb
+fault_Monitoring_ADC_Data,ADC1_Raw_Data,1 minute,6 hours,PCFM,PCS Fault Monitoring,8 kb
+fault_Monitoring_ADC_Data,ADC2_Raw_Data,1 minute,6 hours,PCFM,PCS Fault Monitoring,8 kb
+fault_Monitoring_ADC_Data,ADC3_Raw_Data,1 minute,6 hours,PCFM,PCS Fault Monitoring,8 kb
+fault_Monitoring_ADC_Data,ADC4_Raw_Data,1 minute,6 hours,PCFM,PCS Fault Monitoring,8 kb
+fault_Monitoring_ADC_Data,ADC5_Raw_Data,1 minute,6 hours,PCFM,PCS Fault Monitoring,8 kb
+fault_Monitoring_ADC_Data,ADC6_Raw_Data,1 minute,6 hours,PCFM,PCS Fault Monitoring,8 kb
+fault_Monitoring_ADC_Data,ADC7_Raw_Data,1 minute,6 hours,PCFM,PCS Fault Monitoring,8 kb
+fault_Monitoring_ADC_Data,ADC8_Raw_Data,1 minute,6 hours,PCFM,PCS Fault Monitoring,8 kb
+fault_Monitoring_ADC_Data,ADC9_Raw_Data,1 minute,6 hours,PCFM,PCS Fault Monitoring,8 kb
+fault_Monitoring_ADC_Data,ADC10_Raw_Data,1 minute,6 hours,PCFM,PCS Fault Monitoring,8 kb
+fault_Monitoring_ADC_Data,ADC11_Raw_Data,1 minute,6 hours,PCFM,PCS Fault Monitoring,8 kb

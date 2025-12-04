@@ -10,6 +10,7 @@
 #pragma once
 
 #include "base_app.hpp"
+#include "external_device.hpp"
 #include <thread>
 #include <chrono>
 
@@ -33,7 +34,7 @@ protected:
     void handle_noti_system_settings_changed(std::vector<std::string> keys) override;
     void handle_noti_persistent_states_changed(std::vector<std::string> keys) override;
     void handle_message(const std::string& topic, const nlohmann::json& message) override;
-
+   
 private:
     void message_sender_loop(std::stop_token stop_token);
     nlohmann::json generate_test_message();
@@ -42,7 +43,10 @@ private:
     void handle_response_select_records(const nlohmann::json& message);
     void test_upsert_records();
     void handle_response_upsert_records(const nlohmann::json& message);
+    void handle_on_demand_read_response(const nlohmann::json& message);
     
+   // DeviceManager deviceManager;//TODO: Need to find other way So no need to initiate class here
+  //  MetricLoader metricLoader;//TODO: Need to find other way So no need to initiate class here
     std::jthread message_sender_thread_;
     bool iothub_connected_ = false;
 };
